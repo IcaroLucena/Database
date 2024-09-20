@@ -3,7 +3,7 @@ ATIVIDADE FERRAMENTAS CASE
 Realize a modelagem utilizando MySQL Workbench das seguintes situações:
 
 A) Sistema de Biblioteca
-     Crie um modelo entidade-relacionamento para um sistema de gerenciamento de biblioteca que deve conter as seguintes informações:
+     *Crie um modelo entidade-relacionamento para um sistema de gerenciamento de biblioteca que deve conter as seguintes informações:
 
 - Usuário: Cada usuário da biblioteca tem um identificador único, nome, endereço e telefone.
 - Livro: Cada livro tem um código ISBN, título, autor e ano de publicação.
@@ -12,7 +12,7 @@ A) Sistema de Biblioteca
 
 
 B) Sistema de Reservas de Hotel
-     Desenvolva um modelo entidade-relacionamento para um sistema de reservas de hotel que contenha os seguintes elementos:
+     *Desenvolva um modelo entidade-relacionamento para um sistema de reservas de hotel que contenha os seguintes elementos:
 
 - Hóspede: Cada hóspede tem um número de identificação, nome, e-mail e número de telefone.
 - Quarto: Cada quarto possui um número, tipo (simples, duplo, suíte), e uma taxa por noite.
@@ -21,7 +21,7 @@ B) Sistema de Reservas de Hotel
 
 
 C) Sistema de Vendas Online
-     Projete um modelo entidade-relacionamento para um sistema de vendas online com as seguintes informações:
+     *Projete um modelo entidade-relacionamento para um sistema de vendas online com as seguintes informações:
 
 - Cliente: Cada cliente possui um identificador, nome, e-mail, endereço e telefone.
 - Produto: Cada produto tem um código único, nome, descrição, preço e estoque disponível.
